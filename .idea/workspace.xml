@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d9cb32d6-9d5b-489b-a288-25e94a308490" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../AWS-Reddit-Application/Data/demo.zip" afterDir="false" />
@@ -11411,6 +11429,7 @@
       <change afterPath="$PROJECT_DIR$/../Java Covid19 Social Distancing/src/CFrame.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java Covid19 Social Distancing/src/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java Covid19 Social Distancing/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Reddit-AWS/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Reddit-AWS/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/easy-install.pth" afterDir="false" />
@@ -16306,6 +16325,8 @@
       <change afterPath="$PROJECT_DIR$/../sudoku-solver/puzzles/s16.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sudoku-solver/src/Sudoku.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sudoku-solver/sudoku-solver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Portfolio/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/README.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Portfolio/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Portfolio/assets/css/noscript.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/css/noscript.css" afterDir="false" />
@@ -16370,16 +16391,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
   <component name="ProjectId" id="1fXzbkM3DcaaqPUAi5ahq735ktg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -16390,10 +16419,34 @@
       <option name="presentableId" value="Default" />
       <updated>1596379298591</updated>
       <workItem from="1596379299632" duration="314000" />
+      <workItem from="1596379933182" duration="29000" />
+      <workItem from="1596379969374" duration="140000" />
+      <workItem from="1596380121333" duration="341000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1421" y="344" key="SettingsEditor" timestamp="1596380461886">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1421" y="344" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1596380461886" />
   </component>
 </project>
