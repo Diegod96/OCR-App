@@ -11429,7 +11429,7 @@
       <change afterPath="$PROJECT_DIR$/../Java Covid19 Social Distancing/src/CFrame.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java Covid19 Social Distancing/src/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java Covid19 Social Distancing/src/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/Upload.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Reddit-AWS/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Reddit-AWS/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/easy-install.pth" afterDir="false" />
@@ -16325,8 +16325,10 @@
       <change afterPath="$PROJECT_DIR$/../sudoku-solver/puzzles/s16.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sudoku-solver/src/Sudoku.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sudoku-solver/sudoku-solver.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Portfolio/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/README.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Portfolio/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Portfolio/assets/css/noscript.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/css/noscript.css" afterDir="false" />
@@ -16388,11 +16390,41 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="Upload" />
+                    <option name="lastUsedInstant" value="1596506346" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1596506345" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProjectId" id="1fXzbkM3DcaaqPUAi5ahq735ktg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -16407,8 +16439,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -16421,7 +16459,9 @@
       <workItem from="1596379299632" duration="314000" />
       <workItem from="1596379933182" duration="29000" />
       <workItem from="1596379969374" duration="140000" />
-      <workItem from="1596380121333" duration="341000" />
+      <workItem from="1596380121333" duration="2787000" />
+      <workItem from="1596384407258" duration="1075000" />
+      <workItem from="1596485870830" duration="5190000" />
     </task>
     <servers />
   </component>
@@ -16444,9 +16484,13 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1421" y="344" key="SettingsEditor" timestamp="1596380461886">
+    <state x="1402" y="263" key="CommitChangelistDialog2" timestamp="1596507005410">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1421" y="344" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1596380461886" />
+    <state x="1402" y="263" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1596507005410" />
+    <state x="1494" y="523" key="SettingsEditor" timestamp="1596506063200">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1494" y="523" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1596506063200" />
   </component>
 </project>
