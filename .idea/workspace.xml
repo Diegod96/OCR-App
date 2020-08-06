@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
+    <expand />
+    <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9cb32d6-9d5b-489b-a288-25e94a308490" name="Default Changelist" comment="">
@@ -11429,7 +11420,6 @@
       <change afterPath="$PROJECT_DIR$/../Java Covid19 Social Distancing/src/CFrame.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java Covid19 Social Distancing/src/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java Covid19 Social Distancing/src/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/Upload.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Reddit-AWS/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Reddit-AWS/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/easy-install.pth" afterDir="false" />
@@ -16328,7 +16318,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/Upload.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/Upload.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Portfolio/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/README.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Portfolio/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Portfolio/assets/css/noscript.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/css/noscript.css" afterDir="false" />
@@ -16446,7 +16436,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -16461,7 +16451,10 @@
       <workItem from="1596379969374" duration="140000" />
       <workItem from="1596380121333" duration="2787000" />
       <workItem from="1596384407258" duration="1075000" />
-      <workItem from="1596485870830" duration="5190000" />
+      <workItem from="1596485870830" duration="5300000" />
+      <workItem from="1596546465138" duration="57000" />
+      <workItem from="1596751298593" duration="1871000" />
+      <workItem from="1596753691056" duration="3056000" />
     </task>
     <servers />
   </component>
@@ -16484,13 +16477,37 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1765" y="668" key="#Custom_Plugin_Repositories" timestamp="1596753637173">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1765" y="668" key="#Custom_Plugin_Repositories/0.0.2560.1400@0.0.2560.1400" timestamp="1596753637173" />
     <state x="1402" y="263" key="CommitChangelistDialog2" timestamp="1596507005410">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1402" y="263" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1596507005410" />
-    <state x="1494" y="523" key="SettingsEditor" timestamp="1596506063200">
+    <state x="1700" y="455" key="FileChooserDialogImpl" timestamp="1596546520234">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1494" y="523" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1596506063200" />
+    <state x="1700" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1596546520234" />
+    <state width="1235" height="400" key="GridCell.Tab.0.bottom" timestamp="1596757071826">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1596757071826" />
+    <state width="1235" height="400" key="GridCell.Tab.0.center" timestamp="1596757071826">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="400" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1596757071826" />
+    <state width="1235" height="400" key="GridCell.Tab.0.left" timestamp="1596757071825">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="400" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1596757071825" />
+    <state width="1235" height="400" key="GridCell.Tab.0.right" timestamp="1596757071826">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1235" height="400" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1596757071826" />
+    <state x="1393" y="413" key="SettingsEditor" timestamp="1596754015514">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1393" y="413" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1596754015514" />
   </component>
 </project>
