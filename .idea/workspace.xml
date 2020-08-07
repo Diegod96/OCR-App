@@ -16316,8 +16316,6 @@
       <change afterPath="$PROJECT_DIR$/../sudoku-solver/src/Sudoku.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sudoku-solver/sudoku-solver.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/Upload.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/Upload.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Portfolio/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/README.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Portfolio/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Portfolio/assets/css/main.css" afterDir="false" />
@@ -16428,7 +16426,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../portfolio" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -16454,7 +16452,7 @@
       <workItem from="1596485870830" duration="5300000" />
       <workItem from="1596546465138" duration="57000" />
       <workItem from="1596751298593" duration="1871000" />
-      <workItem from="1596753691056" duration="3056000" />
+      <workItem from="1596753691056" duration="5300000" />
     </task>
     <servers />
   </component>
@@ -16485,10 +16483,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1402" y="263" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1596507005410" />
-    <state x="1700" y="455" key="FileChooserDialogImpl" timestamp="1596546520234">
+    <state x="1700" y="455" key="FileChooserDialogImpl" timestamp="1596758127201">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1700" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1596546520234" />
+    <state x="1700" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1596758127200" />
     <state width="1235" height="400" key="GridCell.Tab.0.bottom" timestamp="1596757071826">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

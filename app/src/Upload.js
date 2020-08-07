@@ -6,12 +6,21 @@ import {faInfoCircle} from '@fortawesome/free-solid-svg-icons';
 
 class Upload extends Component {
     state = {
-        confirmation : ""
+        confirmation : "",
+        isLoading : "",
+        files: ""
     }
 
     async handleSubmit(event) {
         event.preventDefault();
         this.setState({confirmation: "Uploading..."});
+    }
+
+    async getFiles(files) {
+        this.setState({
+            isLoading : "Extracting Data...",
+            files: files
+        });
     }
 
 
@@ -26,6 +35,11 @@ class Upload extends Component {
                             <h6>Upload Your Invoice</h6>
                             <FormText color="muted">PNG or JPG</FormText>
                         </FormGroup>
+                        <div className="form-group files color">
+                            <FileBase64 multiple={true}
+                            onDone={this.getFiles.bind(this)}>
+                            </FileBase64>
+                        </div>
                     </Form>
                 </div>
             </div>
