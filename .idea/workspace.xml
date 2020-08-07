@@ -11420,6 +11420,7 @@
       <change afterPath="$PROJECT_DIR$/../Java Covid19 Social Distancing/src/CFrame.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java Covid19 Social Distancing/src/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java Covid19 Social Distancing/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/upload.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Reddit-AWS/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Reddit-AWS/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Reddit-AWS/env/Lib/site-packages/easy-install.pth" afterDir="false" />
@@ -16382,6 +16383,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -16427,6 +16429,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../portfolio" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -16452,7 +16455,7 @@
       <workItem from="1596485870830" duration="5300000" />
       <workItem from="1596546465138" duration="57000" />
       <workItem from="1596751298593" duration="1871000" />
-      <workItem from="1596753691056" duration="5300000" />
+      <workItem from="1596753691056" duration="8796000" />
     </task>
     <servers />
   </component>
